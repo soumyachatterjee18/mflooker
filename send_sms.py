@@ -5,8 +5,8 @@ import sys
 
 def send_sms(message, number):
 
-	username= '9036552575'
-	passwd='Som123'
+	username= '9999991122'
+	passwd='#####pwd#####'
 	#message=raw_input("messge")
 	#number=raw_input("number")
 	message="+".join(message.split(' '))
